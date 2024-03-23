@@ -8,6 +8,8 @@ The disease is:
 2. "Cassava Brown Streak Disease (CBSD)"
 3. "Cassava Green Mottle (CGM)"
 4. "Cassava Mosaic Disease (CMD)"
+
+
 Not only the disease images is available, the healthy plant images also available. Making the dataset consisting of 5 classses.
 In CSV file it is noted that there are more than 20.000 samples, but in reality there is only about 17.000 images.
 The "Cassava_Sorting_Data.ipynb" is used to separate the class into different folder, resulting in this folder structure:
